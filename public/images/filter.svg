@@ -1,0 +1,9 @@
+<svg id="Group_1009" data-name="Group 1009" xmlns="http://www.w3.org/2000/svg" width="13.248" height="13.248" viewBox="0 0 13.248 13.248">
+  <circle id="Ellipse_77" data-name="Ellipse 77" cx="3.028" cy="3.028" r="3.028" transform="translate(0 0)" fill="#1d64e0"/>
+  <circle id="Ellipse_78" data-name="Ellipse 78" cx="3.028" cy="3.028" r="3.028" transform="translate(7.192 0)" fill="#1d64e0"/>
+  <circle id="Ellipse_79" data-name="Ellipse 79" cx="3.028" cy="3.028" r="3.028" transform="translate(0 7.192)" fill="#1d64e0"/>
+  <g id="Ellipse_80" data-name="Ellipse 80" transform="translate(7.192 7.192)" fill="none" stroke="#1d64e0" stroke-width="1">
+    <circle cx="3.028" cy="3.028" r="3.028" stroke="none"/>
+    <circle cx="3.028" cy="3.028" r="2.528" fill="none"/>
+  </g>
+</svg>
